@@ -88,12 +88,12 @@ article.imagem > p {
 }
 
 article#img01 {
-    background-image: url(imagens/background001.jpg);
+    background-image: url(imagens/pacote-d012/imagens/background001.jpg);
     background-position: right center;
 }
 
 article#img02 {
-    background-image: url(imagens/background002.jpg);
+    background-image: url(imagens/pacote-d012/imagens/background002.jpg);
 }
    
 footer {
